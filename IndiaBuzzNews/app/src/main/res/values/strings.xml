@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice1 Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth_activity__threading">FourthActivity_Threading</string>
+    <string name="title_activity_rss_news_item">RssNewsItem</string>
+</resources>
